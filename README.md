@@ -1,4 +1,4 @@
-# Embedded-System-Assignment
+# Embedded-System
 
 *ModelSim PE Student Edition 10.4a*
 
